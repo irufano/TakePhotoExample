@@ -1,0 +1,14 @@
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\bin\Debug\netstandard2.0\PluginMediaExample.deps.json
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\bin\Debug\netstandard2.0\PluginMediaExample.dll
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\bin\Debug\netstandard2.0\ref\PluginMediaExample.dll
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\bin\Debug\netstandard2.0\PluginMediaExample.pdb
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\PluginMediaExample.csprojAssemblyReference.cache
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\PluginMediaExample.csproj.CoreCompileInputs.cache
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\PluginMediaExample.AssemblyInfoInputs.cache
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\PluginMediaExample.AssemblyInfo.cs
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\PluginMediaExample.dll
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\ref\PluginMediaExample.dll
+D:\MISGROUP\Project\Xamarin\Example\PluginMediaExample\PluginMediaExample\PluginMediaExample\obj\Debug\netstandard2.0\PluginMediaExample.pdb
